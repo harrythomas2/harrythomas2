@@ -8,7 +8,7 @@ I'm an **Application Support Engineer** with a passion for automation, troublesh
 - 🗄 **SQL (Oracle & Microsoft SQL Server)**  
 
 ## 🌱 Learning & Goals  
-I'm on a journey to improve my technical skills and deepen my understanding of **automation, scripting, and DevOps** practices. My goal is to transition into more **technically challenging roles**—possibly within **DevOps or infrastructure automation**.  
+I'm on a journey to improve my technical skills and deepen my understanding of **automation, scripting, and DevOps** practices. My goal is to transition into more **technically challenging roles** possibly within **DevOps or infrastructure automation**.  
 
 ## 🔧 What You’ll Find Here  
 I'll be sharing **projects, scripts, and tools** related to:  
